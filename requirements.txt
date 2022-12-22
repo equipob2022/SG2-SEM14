@@ -10,6 +10,9 @@ async-timeout==3.0.1
 beautifulsoup4==4.8.1
 base58==2.0.0
 textblob==0.15.3
+watchdog==0.9.0
+pyparsing==2.4.0
+wget==3.2
 wordcloud==1.6.0
 yarl==1.4.2
 yfinance==0.1.54
