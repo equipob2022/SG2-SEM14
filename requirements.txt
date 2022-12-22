@@ -13,7 +13,7 @@ textblob==0.15.3
 watchdog==0.9.0
 pyparsing==2.4.0
 wget==3.2
-wordcloud==1.6.0
+wordcloud==1.8.2.2
 yarl==1.4.2
 yfinance==0.1.54
 yfinance
